@@ -1,0 +1,44 @@
+*{
+  padding: 0;
+  border: 0;
+}
+body{
+  background-color: blueviolet;
+  display: 100vh;
+}
+h1{
+  color: white;
+  font-family:cursive ;
+  text-align: center;
+  text-shadow: 3px 0 #1f1b0b;
+  color: white;
+}
+p{
+  color: white;
+  font-family:cursive ;
+  text-align: center;
+  font-size:xx-large;
+}
+img
+{
+  
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+.container{
+ width: 100%;
+ text-align: center;
+
+}
+.dice{
+  margin-left: 50px;
+  display: inline-block;
+}
+footer{
+  color: white;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: larger;
+  margin-top: 100px;
+}
